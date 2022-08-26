@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey! Glad you made it.
 
-Still working on this description...
+This is nothing too profesional at the moment. I just store a bunch of my projects here and work on classes. Hope you find it useful!
+
+Still working on this description...(more)
+
+
 <!--
 **DatOneGuys/DatOneGuys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
